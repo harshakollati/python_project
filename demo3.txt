@@ -1,0 +1,1 @@
+Using nano i have accessed the text file to add something into this file
